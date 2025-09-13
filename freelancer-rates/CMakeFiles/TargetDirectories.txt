@@ -1,0 +1,4 @@
+/Users/etko/Exercism/cpp/freelancer-rates/CMakeFiles/freelancer-rates.dir
+/Users/etko/Exercism/cpp/freelancer-rates/CMakeFiles/test_freelancer-rates.dir
+/Users/etko/Exercism/cpp/freelancer-rates/CMakeFiles/edit_cache.dir
+/Users/etko/Exercism/cpp/freelancer-rates/CMakeFiles/rebuild_cache.dir
