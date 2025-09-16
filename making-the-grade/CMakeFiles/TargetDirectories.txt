@@ -1,0 +1,4 @@
+/Users/etko/Exercism/cpp/making-the-grade/CMakeFiles/making-the-grade.dir
+/Users/etko/Exercism/cpp/making-the-grade/CMakeFiles/test_making-the-grade.dir
+/Users/etko/Exercism/cpp/making-the-grade/CMakeFiles/edit_cache.dir
+/Users/etko/Exercism/cpp/making-the-grade/CMakeFiles/rebuild_cache.dir
