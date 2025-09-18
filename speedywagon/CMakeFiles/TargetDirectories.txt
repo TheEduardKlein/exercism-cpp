@@ -1,0 +1,4 @@
+/Users/etko/Exercism/cpp/speedywagon/CMakeFiles/speedywagon.dir
+/Users/etko/Exercism/cpp/speedywagon/CMakeFiles/test_speedywagon.dir
+/Users/etko/Exercism/cpp/speedywagon/CMakeFiles/edit_cache.dir
+/Users/etko/Exercism/cpp/speedywagon/CMakeFiles/rebuild_cache.dir
