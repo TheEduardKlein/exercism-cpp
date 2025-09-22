@@ -7,6 +7,8 @@
 
 TEST_CASE("encode_yes") { REQUIRE("bvh" == atbash_cipher::encode("yes")); }
 
+TEST_CASE("shift 1 char") { REQUIRE('a' == atbash_cipher::shift('z')); } 
+
 #if defined(EXERCISM_RUN_ALL_TESTS)
 TEST_CASE("encode_no") { REQUIRE("ml" == atbash_cipher::encode("no")); }
 
