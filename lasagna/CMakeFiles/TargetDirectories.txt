@@ -1,0 +1,4 @@
+/Users/etko/Exercism/cpp/lasagna/CMakeFiles/lasagna.dir
+/Users/etko/Exercism/cpp/lasagna/CMakeFiles/test_lasagna.dir
+/Users/etko/Exercism/cpp/lasagna/CMakeFiles/edit_cache.dir
+/Users/etko/Exercism/cpp/lasagna/CMakeFiles/rebuild_cache.dir

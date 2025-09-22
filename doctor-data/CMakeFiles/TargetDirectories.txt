@@ -1,0 +1,4 @@
+/Users/etko/Exercism/cpp/doctor-data/CMakeFiles/doctor-data.dir
+/Users/etko/Exercism/cpp/doctor-data/CMakeFiles/test_doctor-data.dir
+/Users/etko/Exercism/cpp/doctor-data/CMakeFiles/edit_cache.dir
+/Users/etko/Exercism/cpp/doctor-data/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+d1c68bd2c70c8a7f44f9905ea40b2e70 CMakeFiles/test_protein-translation
