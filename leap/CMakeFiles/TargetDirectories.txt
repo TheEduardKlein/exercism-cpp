@@ -1,0 +1,4 @@
+/Users/etko/Exercism/cpp/leap/CMakeFiles/leap.dir
+/Users/etko/Exercism/cpp/leap/CMakeFiles/test_leap.dir
+/Users/etko/Exercism/cpp/leap/CMakeFiles/edit_cache.dir
+/Users/etko/Exercism/cpp/leap/CMakeFiles/rebuild_cache.dir
