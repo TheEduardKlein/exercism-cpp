@@ -1,0 +1,4 @@
+/Users/etko/Exercism/cpp/darts/CMakeFiles/darts.dir
+/Users/etko/Exercism/cpp/darts/CMakeFiles/test_darts.dir
+/Users/etko/Exercism/cpp/darts/CMakeFiles/edit_cache.dir
+/Users/etko/Exercism/cpp/darts/CMakeFiles/rebuild_cache.dir
