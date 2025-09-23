@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+1adfb566a74c3073ba1ded65ab9ded97 CMakeFiles/test_power-of-troy
